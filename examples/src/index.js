@@ -7,7 +7,10 @@ import Deck from '../../src';
 import Card from '../../src';
 
 const App = () => (
-    <div><Deck /></div>
+    <div>
+    <MyComponent />
+    <Deck />
+    </div>
 );
 
 render(<App />, document.getElementById("root"));
