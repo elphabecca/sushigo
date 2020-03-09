@@ -8,7 +8,6 @@ import Card from '../../src';
 
 const App = () => (
     <div>
-    <MyComponent />
     <Deck />
     </div>
 );
