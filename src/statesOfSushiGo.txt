@@ -1,1 +1,10 @@
-statesOfSushiGo
+pre-deal
+    # of players
+deal to players
+players choosing cards to keep
+    players have not all chosen a card
+    players have all chosen a card
+keep going until each player is choosing b/w two cards at the end
+scoring points for round
+set up for new round (deal to players)
+final scoring    
